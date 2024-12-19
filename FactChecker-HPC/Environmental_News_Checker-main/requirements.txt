@@ -1,0 +1,11 @@
+pandas
+tqdm
+replicate
+langchain
+nltk
+numpy
+sentence-transformers
+python-dateutil
+pdfminer.six
+ftfy
+huggingface_hub
